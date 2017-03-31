@@ -1,10 +1,4 @@
 <?php
-
-namespace App\Lib\Web\Services;
-
-use App\Lib\Web\FormHelper;
-use App\Purchase;
-
 /**
  * Class MPESA - Carry out payment processes.
  * e.g. BUYING GOODS
