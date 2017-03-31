@@ -9,7 +9,7 @@
  *      $results = $mpesaClient->getResults();
  *      if($results['code'] === 00 && $results['status'] === 'success')
  *      {
-            // Authentication succeeded. Display the $customerMessage on the page as the customer awaits an
+ *          // Authentication succeeded. Display the $customerMessage on the page as the customer awaits an
  *          // USSD push validation by the system to their device.
  *      } else {
  *          // Notify user that there was a problem
