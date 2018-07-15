@@ -27,5 +27,6 @@ Obviously, there are several ways of implementing this. For simplicity, here are
 It's easy. Just follow the go to [Safaricom's registration page](https://developer.safaricom.co.ke/login-register), register and create add app.
 
 ### 2. Building Application backend
-
+1. In a fresh Laravel application or framework of choice create database models for Product, Consumer, Purchase and Transaction.
+2. Use a seeder of Faker library to generate some products data.
 ## Were do we from here!
