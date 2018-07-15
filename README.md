@@ -29,4 +29,6 @@ It's easy. Just follow the go to [Safaricom's registration page](https://develop
 ### 2. Building Application backend
 1. In a fresh Laravel application or framework of choice create database models for Product, Consumer, Purchase and Transaction.
 2. Use a seeder of Faker library to generate some products data.
-## Were do we from here!
+
+## What next?
+Choose framework of choice and view typical implementation.
